@@ -454,3 +454,4 @@ bucket = aws.s3.Bucket(
 - [references/pulumi-best-practices-aws.md](references/pulumi-best-practices-aws.md) - AWS best practices
 - [references/pulumi-best-practices-azure.md](references/pulumi-best-practices-azure.md) - Azure best practices
 - [references/pulumi-best-practices-gcp.md](references/pulumi-best-practices-gcp.md) - GCP best practices
+- [references/pulumi-best-practices-alicloud.md](references/pulumi-best-practices-alicloud.md) - Alibaba Cloud best practices
